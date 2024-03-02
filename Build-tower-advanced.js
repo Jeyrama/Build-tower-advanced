@@ -37,3 +37,6 @@ and a tower of 6 floors with block size = (2, 1) looks like below:
 Don't return a whole string containing line-endings 
 but a list/array/vector of strings instead!
 */
+
+
+// Solution
